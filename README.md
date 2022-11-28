@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RX-Rexax
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Web, Mobile, and Game Development
 - 🌱 I’m currently learning Unity, Databases, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
