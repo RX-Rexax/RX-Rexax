@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RX-Rexax
 - 👀 I’m interested in Web, Mobile, and Game Development
-- 🌱 I’m currently learning Unity, Databases, etc.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter and React Native
+- 💞️ I’m looking to collaborate on Developing Web or Mobile Apps
 - 📫 How to reach me ...
 
 <!---
