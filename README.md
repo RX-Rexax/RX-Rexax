@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RX-Rexax
 - 👀 I’m interested in Web, Mobile, and Game Development
-- 🌱 I’m currently learning Flutter and React Native
+- 🌱 I’m currently learning Python for Automation
 - 💞️ I’m looking to collaborate on Developing Web or Mobile Apps
 - 📫 How to reach me ...
 
